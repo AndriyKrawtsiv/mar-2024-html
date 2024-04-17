@@ -1,0 +1,29 @@
+@media screen and (min-width: 100px) and (max-width: 590px) {
+header{
+    flex-direction: column;
+
+}
+
+    .article2-2{
+
+        flex-wrap: wrap;
+        justify-content: center;
+
+}
+
+    .article1-1{
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    footer{
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column;
+display: flex;
+    }
+.main{
+    margin-top: 500px;
+}
+
+}

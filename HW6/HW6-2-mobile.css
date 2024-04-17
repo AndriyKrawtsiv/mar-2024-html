@@ -1,0 +1,21 @@
+@media screen and (min-width: 100px) and (max-width: 480px){
+    header, footer{
+        width: 100vw;
+        height: 20vh;
+    }
+    .section{
+        width: 100%;
+
+    }
+    .b{
+        width: 100vw;
+        height: 40vh;
+    }
+    .c, .d, .e{
+        width: 33.3%;
+        height: 20vh;
+    }
+    main{
+        flex-wrap: wrap;
+    }
+}

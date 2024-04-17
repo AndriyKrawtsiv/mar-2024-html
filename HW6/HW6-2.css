@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 30vh;
+    background-color: #e189e1;
+}
+
+.section{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.b{
+    width: 75vw;
+    height: 35vh;
+    background-color: rgba(47, 201, 105, 0.73);
+}
+.c{
+    width: 25vw;
+    height: 35vh;
+    background-color: #42d745;
+}
+.d{
+    width: 25vw;
+    height: 35vh;
+    background-color: #e4f511;
+}
+.e{
+    width: 25vw;
+    height: 35vh;
+    background-color: rgba(232, 230, 230, 0.56);
+}
+footer{
+    width: 35vw;
+    height: 70vh;
+    background-color: #dc1ddc;
+}
+main{
+    display: flex;
+}

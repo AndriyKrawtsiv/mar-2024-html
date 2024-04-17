@@ -1,0 +1,14 @@
+@media screen and (min-width: 100px) and (max-width: 480px) {
+    header, .c {
+        width: 100vw;
+        height: 25vh;
+    }
+    .b {
+        width: 100vw;
+        height: 50vh;
+    }
+    div {
+        flex-direction: column;
+    }
+
+}
