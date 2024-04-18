@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+}
+.img{
+    display: flex;
+    margin: 0;
+    width:100vw;
+    height:100vh;
+}
+.main{
+    display: flex;
+    position: absolute;
+    top:300px;
+    left: 500px;
+}
+
+.box2{
+    background-color: #ffffff;
+    width: 529px;
+    height: 393px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: "KoHo", sans-serif
+}
+.button1{
+    width: 409px;
+    height: 76px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+    font-family: KoHo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.main2{
+    width:100vw;
+    height:100vh;
+}
+.box3{
+    color: #000;
+    font-family: KoHo;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 949px;
+    height: 183px;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 0);
+    position: relative;
+    left:-150px;
+    top: 200px;
+}
+iframe{
+    display: flex;
+    position: absolute;
+
+    left:550px;
+    top: 1100px;
+}
+.Abstract{
+    position: relative;
+    top: -500px;
+    left: 700px;
+    color: #000;
+    font-family: "KoHo", sans-serif;
+}
+.Lorem{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top:-900px;
+
+}
+.Lorem1{
+    width: 453.6px;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Lorem2{
+    width: 453.6px;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Lorem3{
+    width: 453.6px;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+button{
+    width: 409px;
+    height: 76px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #6B6666;
+    font-family: KoHo;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.main3{
+    width:100vw;
+    height:100vh;
+    }
